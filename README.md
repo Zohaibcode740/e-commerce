@@ -1,4 +1,4 @@
-# ElixirHand E-Commerce
+# ElixirHand E-Commerce Website
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zohaibcode740-181717?logo=github)](https://github.com/Zohaibcode740)
 
