@@ -16,7 +16,7 @@ ElixirHand E-Commerce is an open-source e-commerce project built with **ASP.NET 
 * **Junaid1233** — https://github.com/junaid1233
 
 ---
-## Workflow
+## E-commerce Workflow
 ![logo](https://github.com/Zohaibcode740/e-commerce/blob/main/image_ff315aa9.jpg)
 ## 🚀 Project Overview
 
